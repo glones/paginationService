@@ -9,5 +9,6 @@ public class main {
 
         System.out.println(paginationService.getElementsCount());
         System.out.println(paginationService.getPageNumberByElementIndex(7));
+        System.out.println("S");
     }
 }
